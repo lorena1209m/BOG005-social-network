@@ -10,7 +10,7 @@ const mockRegister = ()=> {/// mock de funcion register
   return containRegis;
 };
 const mockRoutes ={/// mock de objeto rutas
-  '/register': mockRegister(),
+  '/register': mockRegister,
 }
 
 describe ('', ()=> {
