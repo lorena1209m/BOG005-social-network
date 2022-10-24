@@ -8,6 +8,7 @@ const routes = {
   '/': login,
   '/register': register,
   '/wall': wall,
+  'https://lorena1209m.github.io/BOG005-social-network/src/': login
 };
 
 // función para anexar un registro al historial del navegador (.pushState)  
